@@ -18,14 +18,14 @@ h1 {
   margin: 30px;
   font-family: 'Zorque', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 5rem;
   color: #874950;
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #E15D40;
-  font-family: 'Perfect Dark (BRK)', cursive;
+  font-family: 'Zorque', cursive;
 }
 
 img {
@@ -37,10 +37,10 @@ button {
   border-radius: 50%;
   margin-top: 50px;
   width: 300px;
-  height: 100px;
+  height: 200px;
   border: 3px solid black;
   background-color: #2E8BC0;
   color: #FFD570;
-  font-size: 4rem;
-  font-family: 'Future TimeSplitters', cursive;
+  font-size: 3rem;
+  font-family: 'Zorque', cursive;
 }
