@@ -16,16 +16,16 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Zorque', cursive;
+  font-family: 'B612', sans-serif;
   text-shadow: 5px 0 #232931;
   font-size: 5rem;
   color: #874950;
 }
 
 p {
+  font-family: 'B612', sans-serif;
   font-size: 3rem;
   color: #E15D40;
-  font-family: 'Zorque', cursive;
 }
 
 img {
@@ -34,6 +34,8 @@ img {
 
 
 button {
+  font-family: 'B612', sans-serif;
+  font-size: 3rem;  
   border-radius: 50%;
   margin-top: 50px;
   width: 300px;
@@ -41,6 +43,4 @@ button {
   border: 3px solid black;
   background-color: #2E8BC0;
   color: #FFD570;
-  font-size: 3rem;
-  font-family: 'Zorque', cursive;
 }
